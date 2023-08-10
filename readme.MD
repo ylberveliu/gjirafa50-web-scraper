@@ -2,13 +2,13 @@
 
 **Usage**
 
-Install requirements from requirements.txt file
+Install requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run scraper with:
+Run scraper:
 
 ```bash
 python scraper.py
